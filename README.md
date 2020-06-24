@@ -1,16 +1,7 @@
-<div style='display: flex; align-items:center;'>
-    <img src="img/icon.jpg" alt="Classy Pandas" 
-         style='width: 75px; height: 75px; padding-right: 15px;'/>
-    <span style='height: 75px; padding:0; margin: -6px; font-weight: bold;'>
-        <div style='font-size: 30px; line-height: 55px; padding: 0; margin: 0;'>
-            Classy Pandas
-        </div>
-        <div style='font-size: 20px; line-height: 20px; padding: 0; margin: 0;'>
-            Quickly annotate/label your data using jupyter widgets and pandas.
-        </div>
-    </span>
-</div><br>
-   
+<img src="img/icon.jpg" alt="Classy Pandas" width='50px' align='left'/>Classy Pandas
+===
+### Quickly annotate/label your data using jupyter widgets and pandas.
+
 Sometimes you have a dataset that you need to label before training your classification models or whatever. If you are already using jupyter and pandas why not do that using some ipywidgets?
 
 ### Prerequisites
