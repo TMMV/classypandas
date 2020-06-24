@@ -29,7 +29,7 @@ pip install classypandas
 
 You can then run the examples in the demo folder in this repository to start labelling! Since the content is displayed as html you can define your column as an html string and have it presented in the screen anyway you want it.
 
-Code:
+**Code**
 ```
 import pandas as pd
 from classypandas import core
@@ -40,7 +40,7 @@ classy = core.Classy(df, 'html', 'label', labels)
 classy.display()
 ```
 
-Preview:
+**Preview**
 
 <img src="img/example1.gif" alt="Example 1"/>
 
